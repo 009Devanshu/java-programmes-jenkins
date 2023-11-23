@@ -4,5 +4,7 @@ public class Main{
         System.out.println("This is java programme");
         System.out.println("output from java programme");
         System.out.println(new Date());
+        System.out.println("Hello");
+        System.out.println("Added two more statements");
     }
 }
